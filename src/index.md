@@ -225,6 +225,8 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 
 Xのハッシュタグは [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa2025?f=live) です。https://x.com/hashtag/JuliaLangJa2025?f=live よりご覧ください。
 
+![集合写真](./photos/group.png)
+
 ## アンケート結果
 
 参加登録の終了後、アンケートの集計結果を公開します。
