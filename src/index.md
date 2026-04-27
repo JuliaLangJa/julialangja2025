@@ -225,6 +225,9 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 
 Xのハッシュタグは [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa2025?f=live) です。https://x.com/hashtag/JuliaLangJa2025?f=live よりご覧ください。
 
+[![写真1](./public/photos/01.jpg)](https://x.com/yamanori99/status/1999685074443215184)
+[![写真2](./public/photos/02.jpg)](https://x.com/TomiyaAkio/status/1999679943413059924)
+[![写真3](./public/photos/03.jpg)](https://x.com/MathSorcerer/status/1999770933930938552/)
 ![集合写真](./public/photos/group.png)
 
 ## アンケート結果
